@@ -1,4 +1,4 @@
-<!-- branch2: change 1 -->
+<!-- branch2: change 2 -->
 # NOTICE
 
 This project is no longer actively maintained, it should still work for the foreseeable future
